@@ -1,4 +1,5 @@
-
+# 응애! 이건 git 잘 작동하는지 test용
+# status 테스트용
 
 
 import os
